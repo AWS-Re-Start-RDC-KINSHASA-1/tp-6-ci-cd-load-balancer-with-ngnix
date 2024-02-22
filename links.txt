@@ -4,3 +4,7 @@ https://chat.openai.com/share/5968c177-207d-4829-adae-8958f91e9d03
 
 # installation jenkins
 https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
+
+# chat gpt
+https://chat.openai.com/share/358618d8-709a-4187-a432-02a90d15068c
+https://chat.openai.com/share/a1ddd977-bd3c-4978-b18a-c0804545fc38
