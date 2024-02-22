@@ -1,0 +1,6 @@
+# configuration nginx
+https://chat.openai.com/share/5968c177-207d-4829-adae-8958f91e9d03
+
+
+# installation jenkins
+https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
