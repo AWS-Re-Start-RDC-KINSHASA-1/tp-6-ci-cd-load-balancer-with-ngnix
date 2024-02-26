@@ -15,5 +15,5 @@
 
     - name: Copy website contents to /var/www/html
       synchronize:
-        src: "/home/ec2-user/ansible_project/index.html"
+        src: "/var/lib/jenkins/workspace/daddyansible/ansible_project/index.html"
         dest: "/var/www/html/"
