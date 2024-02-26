@@ -11,7 +11,7 @@
     - name: Clone or pull repository
       git:
         repo: "https://github.com/AWS-Re-Start-RDC-KINSHASA-1/tp-6-ci-cd-load-balancer-with-ngnix.git"
-        dest: "/home/ec2-user/ansible_project"  # Temporary directory to clone repository
+        dest: "/var/lib/jenkins/workspace/daddyansible/ansible_project"  # Temporary directory to clone repository
 
     - name: Copy website contents to /var/www/html
       synchronize:
