@@ -1,6 +1,8 @@
 # configuration nginx
 https://chat.openai.com/share/5968c177-207d-4829-adae-8958f91e9d03
 
+https://devdiaryacademy.medium.com/how-to-install-nginx-on-an-amazon-linux-2-instance-developer-diary-6007e9d7e141
+
 
 # installation jenkins
 https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
